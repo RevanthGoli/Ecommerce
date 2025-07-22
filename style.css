@@ -56,3 +56,37 @@
 .d-block{
     aspect-ratio: 3/1.5;
 }
+
+/* Cards */
+.fruit{
+    width: 50%;
+    aspect-ratio: 3/2;
+}
+.input-group-text{
+    background-color: rgb(226, 43, 43) !important;
+    color: white !important;
+    border-radius: 10px;
+    border: none !important;
+}
+
+/* footer */
+
+#footer{
+    background-color: gray;
+    padding: 2%;
+}
+
+.links h5,p{
+    color: white;
+}
+
+.links h5{
+    text-decoration: 2px solid black underline;
+}
+
+/* social iconss */
+.last .fa-brands{
+    color: white;
+    font-size: 30px;
+    margin-right: 1%;
+}
